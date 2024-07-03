@@ -10,6 +10,9 @@
 
 ## GitHub Stats
 ![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnamikaDEVOP&show_icons=true&theme=radical)
+## GitHub Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AnamikaDEVOP&theme=radical)
+
 
 
 
