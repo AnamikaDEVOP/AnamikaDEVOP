@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Anamika Rai
-- 👀 I’m interested in problem solving and learning new tech stacks to implement solutions
-- 🌱 I’m currently learning ML and web frameworks
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/anamikaraiin)
-                       [Twitter](https://twitter.com/Anamikaaraii)
+# 👋 Hello World! I'm Anamika Rai
 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I play chess too!
+## 💡 About Me
+- 🧠 Problem solver and tech enthusiast
+- 🚀 Always eager to learn new tech stacks
+- ♟️ Chess player in my free time
 
+## 🌱 Currently Growing
+- 🤖 Diving deep into Machine Learning
+- 🕸️ Exploring web frameworks
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamikaraiin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anamikaaraii)
+
+## 😄 Pronouns: she/her
+
+⚡ Fun Fact: you can also find me strategizing my next move on the chessboard! ♟️
 
 ## GitHub Stats
 ![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnamikaDEVOP&show_icons=true&theme=radical)
