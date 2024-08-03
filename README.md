@@ -24,9 +24,9 @@
 ![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnamikaDEVOP&show_icons=true&theme=radical)
 ## GitHub Streak Stats
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AnamikaDEVOP&theme=radical)
-
-
-
+## My GitHub Achievements
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=AnamikaDEVOP)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamikaDEVOP&theme=vue)
 
 <!---
 AnamikaDEVOP/AnamikaDEVOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
